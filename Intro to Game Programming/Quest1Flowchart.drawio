@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-06T06:00:42.760Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="MnV37UeEmpjFpSlXqc2T" version="13.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-06T06:16:39.087Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="YwKpMwQ-F52bKzeoo8d4" version="13.9.2" type="github">
   <diagram id="R_coL0oHHe2s7lLJRnec" name="Page-1">
     <mxGraphModel dx="2272" dy="2976" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -344,7 +344,7 @@
         <mxCell id="Mn_MytF6m2y4Uh7aq5Jk-133" value="void changeActions()" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="305" y="-1080" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Mn_MytF6m2y4Uh7aq5Jk-134" value="cout &amp;lt;&amp;lt; &quot;I&#39;m inside change actions...&quot; &amp;lt;&amp;lt; endl;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Mn_MytF6m2y4Uh7aq5Jk-134" value="cout &amp;lt;&amp;lt; &quot;\nI&#39;m inside change actions...\n&quot; &amp;lt;&amp;lt; endl;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="305" y="-940" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Mn_MytF6m2y4Uh7aq5Jk-138" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Mn_MytF6m2y4Uh7aq5Jk-136" target="Mn_MytF6m2y4Uh7aq5Jk-137">
@@ -353,7 +353,7 @@
         <mxCell id="Mn_MytF6m2y4Uh7aq5Jk-136" value="void buttonLayout()" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="-1080" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Mn_MytF6m2y4Uh7aq5Jk-137" value="cout &amp;lt;&amp;lt; &quot;I&#39;m inside button layout...&quot; &amp;lt;&amp;lt; endl;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Mn_MytF6m2y4Uh7aq5Jk-137" value="cout &amp;lt;&amp;lt; &quot;\nI&#39;m inside button layout...\n&quot; &amp;lt;&amp;lt; endl;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="-940" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Mn_MytF6m2y4Uh7aq5Jk-141" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Mn_MytF6m2y4Uh7aq5Jk-139" target="Mn_MytF6m2y4Uh7aq5Jk-140">
@@ -362,16 +362,16 @@
         <mxCell id="Mn_MytF6m2y4Uh7aq5Jk-139" value="void keyBindings()" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="305" y="-770" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Mn_MytF6m2y4Uh7aq5Jk-140" value="cout &amp;lt;&amp;lt; &quot;I&#39;m inside keybindings...&quot; &amp;lt;&amp;lt; endl;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Mn_MytF6m2y4Uh7aq5Jk-140" value="cout &amp;lt;&amp;lt; &quot;\nI&#39;m inside keybindings...\n&quot; &amp;lt;&amp;lt; endl;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="305" y="-630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Mn_MytF6m2y4Uh7aq5Jk-144" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Mn_MytF6m2y4Uh7aq5Jk-142" target="Mn_MytF6m2y4Uh7aq5Jk-143">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Mn_MytF6m2y4Uh7aq5Jk-142" value="void onEventScripts" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+        <mxCell id="Mn_MytF6m2y4Uh7aq5Jk-142" value="void onEventScripts()" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="-770" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Mn_MytF6m2y4Uh7aq5Jk-143" value="cout &amp;lt;&amp;lt; &quot;I&#39;m inside OnEvent scripts...&quot;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Mn_MytF6m2y4Uh7aq5Jk-143" value="cout &amp;lt;&amp;lt; &quot;\nI&#39;m inside OnEvent scripts...\n&quot; &amp;lt;&amp;lt; endl;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="-630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Mn_MytF6m2y4Uh7aq5Jk-147" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Mn_MytF6m2y4Uh7aq5Jk-145" target="Mn_MytF6m2y4Uh7aq5Jk-146">
@@ -380,7 +380,7 @@
         <mxCell id="Mn_MytF6m2y4Uh7aq5Jk-145" value="void mainMenuBar()" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="305" y="-490" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Mn_MytF6m2y4Uh7aq5Jk-146" value="cout &amp;lt;&amp;lt; &quot;I&#39;m inside main menu bar...&quot; &amp;lt;&amp;lt; endl;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Mn_MytF6m2y4Uh7aq5Jk-146" value="cout &amp;lt;&amp;lt; &quot;\nI&#39;m inside main menu bar...\n&quot; &amp;lt;&amp;lt; endl;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="305" y="-350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Mn_MytF6m2y4Uh7aq5Jk-150" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Mn_MytF6m2y4Uh7aq5Jk-148" target="Mn_MytF6m2y4Uh7aq5Jk-149">
@@ -389,7 +389,7 @@
         <mxCell id="Mn_MytF6m2y4Uh7aq5Jk-148" value="void miscOptions()" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="-490" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Mn_MytF6m2y4Uh7aq5Jk-149" value="cout &amp;lt;&amp;lt; &quot;I&#39;m inside misc options&quot; &amp;lt;&amp;lt; endl;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Mn_MytF6m2y4Uh7aq5Jk-149" value="cout &amp;lt;&amp;lt; &quot;\nI&#39;m inside misc options...\n&quot; &amp;lt;&amp;lt; endl;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="-350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Mn_MytF6m2y4Uh7aq5Jk-153" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Mn_MytF6m2y4Uh7aq5Jk-151" target="Mn_MytF6m2y4Uh7aq5Jk-152">
@@ -398,7 +398,7 @@
         <mxCell id="Mn_MytF6m2y4Uh7aq5Jk-151" value="void unlockDragging()" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="305" y="-210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Mn_MytF6m2y4Uh7aq5Jk-152" value="cout &amp;lt;&amp;lt; &quot;I&#39;m inside unlock dragging...&quot; &amp;lt;&amp;lt; endl;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Mn_MytF6m2y4Uh7aq5Jk-152" value="cout &amp;lt;&amp;lt; &quot;\nI&#39;m inside unlock dragging...\n&quot; &amp;lt;&amp;lt; endl;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="305" y="-70" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Mn_MytF6m2y4Uh7aq5Jk-156" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Mn_MytF6m2y4Uh7aq5Jk-154" target="Mn_MytF6m2y4Uh7aq5Jk-155">
@@ -407,8 +407,35 @@
         <mxCell id="Mn_MytF6m2y4Uh7aq5Jk-154" value="void showButtonIDs()" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="-210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Mn_MytF6m2y4Uh7aq5Jk-155" value="cout &amp;lt;&amp;lt; &quot;I&#39;m inside show button IDs&quot; &amp;lt;&amp;lt; endl;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Mn_MytF6m2y4Uh7aq5Jk-155" value="cout &amp;lt;&amp;lt; \n&quot;I&#39;m inside show button IDs...\n&quot; &amp;lt;&amp;lt; endl;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="-70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Mn_MytF6m2y4Uh7aq5Jk-159" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Mn_MytF6m2y4Uh7aq5Jk-157" target="Mn_MytF6m2y4Uh7aq5Jk-158">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mn_MytF6m2y4Uh7aq5Jk-157" value="void showActionIDs()" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Mn_MytF6m2y4Uh7aq5Jk-158" value="cout &amp;lt;&amp;lt; &quot;\nI&#39;m inside show action IDs...\n&quot; &amp;lt;&amp;lt; endl;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Mn_MytF6m2y4Uh7aq5Jk-162" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Mn_MytF6m2y4Uh7aq5Jk-160" target="Mn_MytF6m2y4Uh7aq5Jk-161">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mn_MytF6m2y4Uh7aq5Jk-160" value="void copy()" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Mn_MytF6m2y4Uh7aq5Jk-161" value="cout &amp;lt;&amp;lt; &quot;\nI&#39;m inside copy...\n&quot; &amp;lt;&amp;lt; endl;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Mn_MytF6m2y4Uh7aq5Jk-165" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Mn_MytF6m2y4Uh7aq5Jk-163" target="Mn_MytF6m2y4Uh7aq5Jk-164">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mn_MytF6m2y4Uh7aq5Jk-163" value="void paste()" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Mn_MytF6m2y4Uh7aq5Jk-164" value="cout &amp;lt;&amp;lt; &quot;\nI&#39;m inside paste\n&quot; &amp;lt;&amp;lt; endl;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="490" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
