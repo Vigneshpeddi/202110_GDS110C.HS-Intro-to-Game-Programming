@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-06T06:16:39.087Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="YwKpMwQ-F52bKzeoo8d4" version="13.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-06T06:19:52.086Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="wFUxdGvhG9MTvNPacmvZ" version="13.9.2" type="github">
   <diagram id="R_coL0oHHe2s7lLJRnec" name="Page-1">
     <mxGraphModel dx="2272" dy="2976" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -92,7 +92,7 @@
         <mxCell id="Mn_MytF6m2y4Uh7aq5Jk-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Mn_MytF6m2y4Uh7aq5Jk-48" target="Mn_MytF6m2y4Uh7aq5Jk-50">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Mn_MytF6m2y4Uh7aq5Jk-48" value="cout &amp;lt;&amp;lt; &quot;10. COPY&amp;lt;&amp;lt; endl;" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="Mn_MytF6m2y4Uh7aq5Jk-48" value="cout &amp;lt;&amp;lt; &quot;10. COPY&quot; &amp;lt;&amp;lt; endl;" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="32" y="770" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Mn_MytF6m2y4Uh7aq5Jk-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Mn_MytF6m2y4Uh7aq5Jk-50" target="Mn_MytF6m2y4Uh7aq5Jk-52">
@@ -216,7 +216,7 @@
         <mxCell id="Mn_MytF6m2y4Uh7aq5Jk-108" value="y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Mn_MytF6m2y4Uh7aq5Jk-81" target="Mn_MytF6m2y4Uh7aq5Jk-107">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Mn_MytF6m2y4Uh7aq5Jk-81" value="else if selection = =10" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="Mn_MytF6m2y4Uh7aq5Jk-81" value="else if selection ==10" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="25" y="2760" width="135" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Mn_MytF6m2y4Uh7aq5Jk-86" value="n" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Mn_MytF6m2y4Uh7aq5Jk-83" target="Mn_MytF6m2y4Uh7aq5Jk-85">
