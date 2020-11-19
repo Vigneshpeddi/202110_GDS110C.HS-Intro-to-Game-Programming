@@ -1,1 +1,120 @@
-<mxfile host="app.diagrams.net" modified="2020-11-20T01:24:19.153Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36 Edg/86.0.622.69" version="13.10.0" etag="sTf0YMOf2BVTSbUIUyJO" type="github"><diagram id="K-gN0OQAFksVMiiZGABF">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-20T01:53:48.478Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36 Edg/86.0.622.69" etag="6HmMjSCUOcgADVM80VXn" version="13.10.0" type="github">
+  <diagram id="K-gN0OQAFksVMiiZGABF" name="Page-1">
+    <mxGraphModel dx="1422" dy="1904" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="P_IVHD_gfc_UbGdAkl6g-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P_IVHD_gfc_UbGdAkl6g-1" target="P_IVHD_gfc_UbGdAkl6g-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P_IVHD_gfc_UbGdAkl6g-1" value="Start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="375" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="P_IVHD_gfc_UbGdAkl6g-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P_IVHD_gfc_UbGdAkl6g-2" target="P_IVHD_gfc_UbGdAkl6g-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P_IVHD_gfc_UbGdAkl6g-2" value="int image&lt;br&gt;float credits&lt;br&gt;float bet&lt;br&gt;int selection" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="368" y="200" width="115" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="P_IVHD_gfc_UbGdAkl6g-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P_IVHD_gfc_UbGdAkl6g-4" target="P_IVHD_gfc_UbGdAkl6g-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P_IVHD_gfc_UbGdAkl6g-4" value="cout &amp;lt;&amp;lt; &lt;br&gt;&quot;Credits: &quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="365" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P_IVHD_gfc_UbGdAkl6g-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P_IVHD_gfc_UbGdAkl6g-6" target="P_IVHD_gfc_UbGdAkl6g-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P_IVHD_gfc_UbGdAkl6g-6" value="cin &amp;gt;&amp;gt; credits" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="365" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P_IVHD_gfc_UbGdAkl6g-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P_IVHD_gfc_UbGdAkl6g-8" target="P_IVHD_gfc_UbGdAkl6g-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P_IVHD_gfc_UbGdAkl6g-8" value="cout &amp;lt;&amp;lt; &quot;1. Spin 2. Quit&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="334" y="630" width="182" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="P_IVHD_gfc_UbGdAkl6g-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P_IVHD_gfc_UbGdAkl6g-10" target="P_IVHD_gfc_UbGdAkl6g-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P_IVHD_gfc_UbGdAkl6g-10" value="cin &amp;gt;&amp;gt; selection" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="334" y="810" width="182" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="P_IVHD_gfc_UbGdAkl6g-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P_IVHD_gfc_UbGdAkl6g-12" target="P_IVHD_gfc_UbGdAkl6g-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P_IVHD_gfc_UbGdAkl6g-12" value="image = rand() % 4" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="365" y="1360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P_IVHD_gfc_UbGdAkl6g-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P_IVHD_gfc_UbGdAkl6g-35" target="P_IVHD_gfc_UbGdAkl6g-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P_IVHD_gfc_UbGdAkl6g-35" value="cout &amp;lt;&amp;lt; &quot;Bet: &quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="334" y="990" width="182" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="P_IVHD_gfc_UbGdAkl6g-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="P_IVHD_gfc_UbGdAkl6g-37" target="P_IVHD_gfc_UbGdAkl6g-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P_IVHD_gfc_UbGdAkl6g-37" value="cin bet" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="334" y="1170" width="182" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="P_IVHD_gfc_UbGdAkl6g-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P_IVHD_gfc_UbGdAkl6g-43" target="P_IVHD_gfc_UbGdAkl6g-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P_IVHD_gfc_UbGdAkl6g-43" value="cout &amp;lt;&amp;lt; image" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="365" y="1500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P_IVHD_gfc_UbGdAkl6g-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P_IVHD_gfc_UbGdAkl6g-45" target="P_IVHD_gfc_UbGdAkl6g-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P_IVHD_gfc_UbGdAkl6g-45" value="credits += (4- image) * 25" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="365" y="1640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P_IVHD_gfc_UbGdAkl6g-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="P_IVHD_gfc_UbGdAkl6g-47" target="P_IVHD_gfc_UbGdAkl6g-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P_IVHD_gfc_UbGdAkl6g-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P_IVHD_gfc_UbGdAkl6g-47" target="P_IVHD_gfc_UbGdAkl6g-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P_IVHD_gfc_UbGdAkl6g-47" value="for i = 0;i &amp;lt; 4;&lt;br&gt;i++" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="385" y="1770" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="P_IVHD_gfc_UbGdAkl6g-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P_IVHD_gfc_UbGdAkl6g-52" target="P_IVHD_gfc_UbGdAkl6g-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P_IVHD_gfc_UbGdAkl6g-52" value="credits -= bet" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="365" y="1940" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P_IVHD_gfc_UbGdAkl6g-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P_IVHD_gfc_UbGdAkl6g-54" target="P_IVHD_gfc_UbGdAkl6g-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P_IVHD_gfc_UbGdAkl6g-54" value="cout &amp;lt;&amp;lt; credits" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="365" y="2080" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P_IVHD_gfc_UbGdAkl6g-65" value="y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="P_IVHD_gfc_UbGdAkl6g-60" target="P_IVHD_gfc_UbGdAkl6g-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="130" y="2250" />
+              <mxPoint x="130" y="680" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P_IVHD_gfc_UbGdAkl6g-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P_IVHD_gfc_UbGdAkl6g-60" target="P_IVHD_gfc_UbGdAkl6g-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P_IVHD_gfc_UbGdAkl6g-60" value="while credits &amp;gt; 0 or selection == 1" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="363" y="2210" width="125" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="P_IVHD_gfc_UbGdAkl6g-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P_IVHD_gfc_UbGdAkl6g-66" target="P_IVHD_gfc_UbGdAkl6g-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P_IVHD_gfc_UbGdAkl6g-66" value="cout &amp;lt;&amp;lt; credits" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="365.5" y="2380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P_IVHD_gfc_UbGdAkl6g-68" value="end" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="393" y="2520" width="64.5" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
